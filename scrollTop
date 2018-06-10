@@ -14,4 +14,16 @@ window.addEventListener('scroll', function(e) {
 });
 
 #### onClick Event Listener
-let scrollTop1 = () =>  window.scrollTo(0, 0);
+//let scrollTop1 = () =>  window.scrollTo(0, 0);
+// Animated
+let scrollTop1 = () => {
+  let int = null;
+  int = setInterval(()=> {
+    if(window.pageYOffset <= 0 ){
+      clearInterval(int);
+      return;
+    };
+    window.scrollTo(0, window.pageYOffset-100)}, 
+    20
+  );
+}
