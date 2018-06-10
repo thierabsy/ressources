@@ -1,0 +1,17 @@
+function scrollToTop(scrolled) {
+  if(scrolled >= 400){
+    document.getElementById("scrollTop").className= "scrollTop show";
+  }else{
+    document.getElementById("scrollTop").classList.remove("show");
+  }
+}
+
+window.addEventListener('scroll', function(e) {
+  var position = window.scrollY;
+  window.requestAnimationFrame(function() {
+    scrollToTop(position);
+  });
+});
+
+#### onClick Event Listener
+let scrollTop1 = () =>  window.scrollTo(0, 0);
