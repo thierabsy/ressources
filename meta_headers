@@ -1,0 +1,21 @@
+<meta name="theme-color" content="#13b5ea" />
+<meta name="msapplication-navbutton-color" content="#13b5ea" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<link rel="icon" href="https://www.access-emploi.com/wp-content/uploads/2018/06/favicon-32.png" sizes="32x32" />
+<meta name="keywords" content="emploi, formation, employabilité, recherche emploi, sénégal, dakar"/>
+<meta name="description" content="Access emploi est un hub sur l'emploi, la formation et l'employabilité au Sénégal."/>
+<!----FACEBOOK ---->
+<meta property="og:url" content="https://www.access-emploi.com" />
+<meta property="og:type" content="website" />
+<!--  <meta property="og:title" content="ACCESS EMPLOI: www.access-emploi.com" />
+<meta property="og:description" content="Access emploi est un hub sur l'emploi, la formation et l'employabilité au Sénégal." /> -->
+<meta property="og:image" content="https://www.access-emploi.com/wp-content/uploads/2018/06/call_to_action_accueil.png" /> 
+<meta property="fb:app_id" content="642826992724446" />
+<meta name="fb:page_id" content="951388798362521" />
+<meta name="og:latitude" content="14.6937000"/>
+<meta name="og:longitude" content="-17.4440600"/>
+<meta name="og:locality" content="Dakar"/>
+<meta name="og:region" content="SN"/>
+<meta name="og:country-name" content="SENEGAL"/>
